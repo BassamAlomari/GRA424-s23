@@ -44,8 +44,6 @@
 .square-1-2 {
     display: flex;
     background-color: #ffffff;
-    border-style: solid;
-    border-color: #000000;
     border-width: .1vw;
     width: 71.428571vw;
     height: 71.428571vh;
