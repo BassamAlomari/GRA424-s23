@@ -33,3 +33,23 @@
     height: 42.857143vh;
     margin: auto;
 }
+
+.line-left {
+   display: flex;
+    background-color: #000000;
+    width: 3.52112677vw;
+    height: 42.857143vh;
+    margin: auto;
+    margin-left: 0;
+
+}
+
+.line-right {
+    display: flex;
+    background-color: #000000;
+    width: 3.52112677vw;
+    height: 42.857143vh;
+    margin: auto;
+    margin-right: 0;
+
+}
