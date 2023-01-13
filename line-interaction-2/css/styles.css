@@ -70,7 +70,7 @@
 
  .white-line {
     display: flex;
-    transform: rotate(120deg);
+    transform: rotate(-120deg);
     background-color: blue;
     width: 3.52112677vw;
     height: 17vh;
@@ -81,7 +81,7 @@
 
  .left-2 {
     display: flex;
-    transform: rotate(120deg);
+    transform: rotate(-120deg);
     background-color: blue;
     width: 3.52112677vw;
     height: 17vh;
@@ -94,7 +94,7 @@
 
  .right-2 {
     display: flex;
-    transform: rotate(120deg);
+    transform: rotate(-120deg);
     background-color: blue;
     width: 3.52112677vw;
     height: 17vh;
