@@ -1,14 +1,14 @@
-.container {
-    display: flex;
-    background-color: #ffffff;
-    width: 100%;
-    height: 100vh;
-}
-
 .step-2 {
     display: flex;
     margin: auto;
     justify-content: center;
     width: 71.428571vw;
     height: 71.428571vh;
+}
+
+.container {
+    display: flex;
+    background-color: #ffffff;
+    width: 100%;
+    height: 100vh;
 }
