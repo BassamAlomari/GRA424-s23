@@ -11,7 +11,7 @@
     background-color: #ffffff;
     border-style: solid;
     border-color: #000000;
-    border-width: .75px;
+    border-width: 1px;
     width: 71.428571vw;
     height: 71.428571vh;
     margin: auto;
@@ -22,7 +22,7 @@
     background-color: #ffffff;
     border-style: solid;
     border-color: #e6e3e3;
-    border-width: .75px;
+    border-width: 1px;
     width: 42.857143vw;
     height: 42.857143vh;
     margin: auto;
