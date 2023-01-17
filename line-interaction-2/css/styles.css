@@ -1,6 +1,7 @@
 .step-2 {
     display: flex;
     margin: auto;
+    border: .1pt solid #000000;
     justify-content: center;
     width: 71.428571vw;
     height: 71.428571vh;
