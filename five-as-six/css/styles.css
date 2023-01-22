@@ -90,3 +90,22 @@
     height: 42.857143vh;
     background-color: #f9eaa3;
 }
+
+.hovering {
+    display: flex;
+    width: 42.857143vw;
+    height: 42.857143vh;
+    position: absolute;
+    z-index: 1;
+}
+
+.hovering img:hover {
+    opacity: 100;
+}
+
+.hovering img {
+    width: 42.857143vw;
+    height: 42.857143vh;
+    opacity: 0;
+    object-fit: cover;
+}
